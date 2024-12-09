@@ -1,0 +1,43 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    font-size: 1.05rem;
+}
+.white-text-block, .green-text-block{
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.green-text-block p, .green-text-block h1{
+    background: #03190cad;
+    color: white;
+    width: 100%;
+}
+.green-text-block h1{
+    padding: 0 5%;
+}
+.white-text-block div, .white-text-block p, .white-text-block h2, .white-text-block h5{
+    background: #03190cad;
+    color: rgb(255, 255, 255);
+    padding: 2% 5%;
+}
+
+h2{
+    color: #175230;
+}
+.footer{
+    background: rgb(0 113 48);
+    color: white;
+    min-height: 200px;
+    width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#missionaries, #about-us, #home, #block2, #block3, #block4{
+    scroll-margin-top: 150px;
+}
