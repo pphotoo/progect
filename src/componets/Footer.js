@@ -19,6 +19,23 @@ function Footer(props) {
                     </div>
 
                 </Row>
+                <Row className={"mb-2"}>
+                    <div>
+                        Ученик 11-го "Б" класса
+                    </div>
+
+                </Row><Row className={"mb-2"}>
+                    <div>
+                        Т.Л. "Gheorghie Biruitorul"
+                    </div>
+
+                </Row>
+                <Row className={"mb-2"}>
+                    <div>
+                       г. Окница
+                    </div>
+
+                </Row>
             </Container>
         </div>
     );
